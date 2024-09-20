@@ -1,0 +1,48 @@
+date,event,reference
+1959,"The term ""Optimal Control"" appears.",
+1957,"""Dynamic Programming"" appears.","Bellman, R. E. (1957).?Dynamic programming. Princeton University Press."
+1957,Markov Decision Processes emerge.,"Bellman, R. (1957). A Markovian Decision Process. Indiana University mathematics journal, 6(4), 679?684. https://doi.org/10.1512/iumj.1957.6.56038"
+1960,The policy iteration method is introduced.,"Howard, R. A. (1960). Dynamic programming and Markov processes. MIT Press.
+"
+1977,Optimal Control and Dynamic Programming are connected.,"Werbos, P. J. (1977). Advanced forecasting methods for global crisis warning
+ and models of intelligence. General Systems Yearbook, 22:2538."
+1989,Learning methods are integrated.," Watkins, C. J. C. H. (1989). Learning from Delayed Rewards. Ph.D. thesis,
+ Cambridge University."
+1911,"The first idea of ""trial-error-learning"" emerges.","Thorndike, E. L. (1911). Animal Intelligence. Hafner, Darien, CT."
+1927,"The term ""Reinforcement"" appears.","Pavlov, P. I. (1927). Conditioned Re exes. Oxford University Press, London"
+1954,"Important works on ""trial-error-learning.""","Minsky, M. L. (1954). Theory of Neural-Analog Reinforcement Systems and
+ Its Application to the Brain-Model Problem. Ph.D. thesis, Princeton Uni
+versity"
+1960,"The terms ""Reinforcement"" and ""Reinforcement Learning"" are used.","Waltz, M. D., Fu, K. S. (1965). A heuristic approach to reinforcement learning
+ control systems. IEEE Transactions on Automatic Control, 10:390398."
+1961,"Publication of ""Steps Toward Artificial Intelligence.""","Minsky, M. L. (1961). Steps toward arti cial intelligence. Proceedings of the
+ Institute of Radio Engineers, 49:830. Reprinted in E. A. Feigenbaum and
+ J. Feldman (eds.), Computers and Thought, pp. 406450. McGraw-Hill,
+ New York, 1963."
+1963,STeLLA is created.," Andreae, J. H. (1963). STELLA: A scheme for a learning machine. In
+ Proceedings of the 2nd IFAC Congress, Basle, pp. 497502. Butterworths,
+ London."
+1960,"""Learning Automata"" originate."," Tsetlin, M. L. (1973). Automaton Theory and Modeling of Biological Systems.
+ Academic Press, New York"
+2003,Reinforcement Learning in economics.," Camerer, C. (2003). Behavioral game theory: Experiments in strategic inter
+action. Princeton University Press"
+2012,Reinforcement Learning and Games.,"Nowe, A., Vrancx, P., De Hauwere, Y. M. (2012). Game theory and multi
+agent reinforcement learning. In Reinforcement Learning (pp. 441-470).
+ Springer Berlin Heidelberg"
+1986,Classifiers are introduced.,"Holland, J. H. (1986). Escaping brittleness: The possibility of general-purpose
+ learning algorithms applied to rule-based systems. In R. S. Michalski,
+ J. G. Carbonell, and T. M. Mitchell (eds.), Machine Learning: An Arti cial
+ Intelligence Approach, vol. 2, pp. 593623. Morgan Kaufmann, San Mateo,
+ CA"
+1978,Sutton develops Klopf's ideas.,"Sutton, R. S. (1978a). Learning theory support for a single channel theory of
+ the brain. Unpublished report."
+1972,Trial-error-learning and temporal-difference-learning are combined.," Klopf, A. H. (1972). Brain function and adaptive systems A heterostatic
+ theory. Technical Report AFCRL-72-0164, Air Force Cambridge Research
+ Laboratories, Bedford, MA. A summary appears in Proceedings of the In
+ternational Conference on Systems, Man, and Cybernetics. IEEE Systems,
+ Man, and Cybernetics Society, Dallas, TX, 1974."
+1959,Temporal-difference-learning appears.," Samuel, A. L. (1959). Some studies in machine learning using the game
+ of checkers.
+ IBM Journal on Research and Development, 3:211229.
+ Reprinted in E. A. Feigenbaum and J. Feldman (eds.), Computers and
+ Thought, pp. 71105. McGraw-Hill, New York, 1963."
