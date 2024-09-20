@@ -1,14 +1,15 @@
 date,event,reference
 1959,"The term ""Optimal Control"" appears.",
-1957,"""Dynamic Programming"" appears.","Bellman, R. E. (1957).?Dynamic programming. Princeton University Press."
-1957,Markov Decision Processes emerge.,"Bellman, R. (1957). A Markovian Decision Process. Indiana University mathematics journal, 6(4), 679?684. https://doi.org/10.1512/iumj.1957.6.56038"
+1957,"Dynamic Programming""appears.","Bellman, R. E. (1957a). Dynamic Programming. Princeton University Press,
+Princeton."
+1957,Markov Decision Processes emerge.,"Bellman, R.E. (1957). A Markovian Decision Process. Indiana University mathematics journal, 6(4), 679?684. https://doi.org/10.1512/iumj.1957.6.56038"
 1960,The policy iteration method is introduced.,"Howard, R. A. (1960). Dynamic programming and Markov processes. MIT Press.
 "
 1977,Optimal Control and Dynamic Programming are connected.,"Werbos, P. J. (1977). Advanced forecasting methods for global crisis warning
  and models of intelligence. General Systems Yearbook, 22:2538."
 1989,Learning methods are integrated.," Watkins, C. J. C. H. (1989). Learning from Delayed Rewards. Ph.D. thesis,
  Cambridge University."
-1911,"The first idea of ""trial-error-learning"" emerges.","Thorndike, E. L. (1911). Animal Intelligence. Hafner, Darien, CT."
+1911,"The first idea of ""trial-error-learning"" emerges.","Thorndike, E. L. (1911). Animal Intelligence. Hafner, Darien, CT"
 1927,"The term ""Reinforcement"" appears.","Pavlov, P. I. (1927). Conditioned Re exes. Oxford University Press, London"
 1954,"Important works on ""trial-error-learning.""","Minsky, M. L. (1954). Theory of Neural-Analog Reinforcement Systems and
  Its Application to the Brain-Model Problem. Ph.D. thesis, Princeton Uni

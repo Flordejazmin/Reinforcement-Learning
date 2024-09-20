@@ -8,7 +8,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - Tarea 1.qmd
+    - Tarea 1.qmd 
     - summary.qmd
     - references.qmd
 
